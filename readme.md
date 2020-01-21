@@ -1,3 +1,6 @@
+# RESULTAT https://amjsf.github.io/AJAXQuotes/
+
+
 # Exercise: consume a web service via Ajax
 
 - Time necessary : 3 hours
